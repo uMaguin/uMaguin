@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Rafael!](https://github.com/uMaguin) 
+### Hey 👋, I'm [Rafael!](https://github.com/uMaguin) 
 
 <br/>
 
@@ -15,16 +15,16 @@
   <img align="left" alt="Rafael LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
+<br/>
 <br/>
 
-Hi, I'm Rafael Henrique, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Rafael Henrique, a Front-end web development 🚀 from Brazil. Besides the programming, i like series and games.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 👨🏼‍💻 I’m currently in the second period of Information Systems;
 - 🌱 I’m currently learning GraphQL and C++; 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
