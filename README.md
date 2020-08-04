@@ -62,7 +62,7 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=umaguin&show_icons=true&hide_border=true)
+![Rafael Henrique's github stats](https://github-readme-stats.vercel.app/api?username=umaguin&show_icons=true&hide_border=true)
 
 
 
