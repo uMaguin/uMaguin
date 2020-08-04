@@ -2,17 +2,17 @@
 
 <br/>
 
-<a href="https://discord.gg/qXVfgpK">
-  <img align="left" alt="uMago Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a href="https://twitter.com/uMaguzin">
   <img align="left" alt="Rafael Henrique | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rafael-henrique-85662419a/">
-  <img align="left" alt="Rafael LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://www.instagram.com/rafa_imt/">
   <img align="left" alt="Rafael Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.gg/qXVfgpK">
+  <img align="left" alt="uMago Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rafael-henrique-85662419a/">
+  <img align="left" alt="Rafael LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
