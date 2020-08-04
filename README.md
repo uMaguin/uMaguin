@@ -27,7 +27,6 @@ Hi, I'm Rafael Henrique, a Front-end web development 🚀 from Brazil. Besides t
 - 👨🏼‍💻 I’m currently in the second period of Information Systems;
 - 🌱 I’m currently expanding my knowledge of JavaScript;; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: contato@umaguin.com;
 
 **Languages and Tools:**  
