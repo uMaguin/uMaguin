@@ -25,13 +25,10 @@ Hi, I'm Rafael Henrique, a Front-end web development 🚀 from Brazil. Besides t
 **Talking about Personal Stuffs:**
 
 - 👨🏼‍💻 I’m currently in the second period of Information Systems;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🌱 I’m currently expanding my knowledge of JavaScript;; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📫 How to reach me: contato@umaguin.com;
 
 **Languages and Tools:**  
 
