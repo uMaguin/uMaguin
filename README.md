@@ -45,4 +45,4 @@ Hi, I'm Rafael Henrique, a Front-end web development 🚀 from Brazil. Besides t
 
 
 
-![Rafael Henrique's github stats](https://github-readme-stats.vercel.app/api?username=umaguin&show_icons=true&hide_border=true)
+![Rafael Henrique github stats](https://github-readme-stats.vercel.app/api?username=umaguin&show_icons=true&hide_border=true)
