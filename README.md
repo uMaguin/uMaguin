@@ -27,7 +27,7 @@ Hi, I'm Rafael Henrique, a Front-end web development 🚀 from Brazil. Besides t
 - 👨🏼‍💻 I’m currently in the second period of Information Systems;
 - ⚡️ I’m currently expanding my knowledge of JavaScript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: contato@umaguin.com
+- 📫 How to reach me: rafael402@academico.uniages.edu.br
 
 **Languages and Tools:**  
 
