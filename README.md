@@ -20,7 +20,7 @@
 
 Hi, I'm Rafael Henrique, a Front-end web development 🚀 from Brazil. Besides the programming, i like series and games.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!--  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
 **Talking about Personal Stuffs:**
 
